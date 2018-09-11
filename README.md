@@ -1,17 +1,17 @@
-# qik-app ⚡️
+# quik-app ⚡️
 A cli app to get you started with your own recipe
 
 ## Install
 
 ```
-$ npm i qik-app --global
+$ npm i quik-app --global
 ```
 
 ## Usage
-Running `qik-app` launches the interactive UI that guides you through the process.
+Running `quik-app` launches the interactive UI that guides you through the process.
 
 ```
-qik-app
+quik-app
 
   Questions
     Name of the project?

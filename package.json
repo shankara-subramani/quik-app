@@ -1,11 +1,11 @@
 {
-  "name": "qik-app",
-  "version": "1.0.3",
+  "name": "quik-app",
+  "version": "0.0.0",
   "description": "A cli app to get you started on with your own recipe",
   "main": "cli.js",
   "repository": "https://github.com/shankariyerr/qik-app",
   "bin": {
-    "qik-app": "cli.js"
+    "quik-app": "cli.js"
   },
   "author": {
     "name": "Shankar",
