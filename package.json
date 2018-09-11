@@ -1,0 +1,41 @@
+{
+  "name": "qik-app",
+  "version": "1.0.0",
+  "description": "A cli app to get you started on with your own recipe",
+  "main": "cli.js",
+  "repository": "https://github.com/shankariyerr/qik-app",
+  "bin": {
+    "qik-app": "cli.js"
+  },
+  "author": {
+    "name": "Shankar",
+    "email": "shankariyerr.s@gmail.com",
+    "url": "https://twitter.com/i_shankar"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "app",
+    "npm",
+    "package",
+    "quick",
+    "starter",
+    "template",
+    "react",
+    "js",
+    "cra"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "child_process": "^1.0.2",
+    "element-react": "^1.4.21",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10",
+    "react": "^16.5.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.5.0",
+    "react-router": "^4.3.1"
+  }
+}
