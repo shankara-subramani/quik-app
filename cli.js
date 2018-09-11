@@ -6,7 +6,8 @@ var exec = require('child_process').exec;
 const chalk = require('chalk');
 const log = console.log;
 
-console.log('Hello 👋🏻');
+// console.log();
+log(chalk.gray('Hello 👋🏻'));
 
 var questions = [
   {

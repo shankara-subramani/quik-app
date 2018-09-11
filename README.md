@@ -1,5 +1,5 @@
 # qik-app ⚡️
-A cli app to get you started on with your own recipe
+A cli app to get you started with your own recipe
 
 ## Install
 
@@ -12,7 +12,7 @@ Running `qik-app` launches the interactive UI that guides you through the proces
 
 ```
 qik-app
-  
+
   Questions
     Name of the project?
     Where do you want me to install? (Project directory)
