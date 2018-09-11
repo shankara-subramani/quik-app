@@ -1,6 +1,6 @@
 {
   "name": "qik-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cli app to get you started on with your own recipe",
   "main": "cli.js",
   "repository": "https://github.com/shankariyerr/qik-app",
